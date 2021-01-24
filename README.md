@@ -15,4 +15,4 @@ Employee: tiago, $ 5000.00  <br>
 Which percentage to increase salary? 10.0 <br>
 
 # Out
-Updated data: tiago, $ 5600.00
+Updated data: Tiago Gomes, $ 5600.00
